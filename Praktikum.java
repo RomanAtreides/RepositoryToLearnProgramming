@@ -12,7 +12,7 @@ public class Praktikum {
         int daysBeforeSalary = scanner.nextInt();
         
         Converter converter = new Converter(78.5, 88.7, 0.75);
-        DinnerAdvisor dinnerAdvisor = new DinnerAdvisor();
+        DinnerAdvisor dinnerAdvisor = new DinnerAdvisor(); // Создаем объект класса DinnerAdvisor
         ExpensesManager expensesManager = new ExpensesManager(); // Создаем объект класса ExpensesManager
         
         while (true) {
