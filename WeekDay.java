@@ -1,3 +1,8 @@
+/*
+	Программа позволяет по указанному номеру узнать название соответствующего дня недели.
+	Version 0.9
+*/
+
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
