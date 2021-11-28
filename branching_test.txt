@@ -1,1 +1,6 @@
 Git branching test
+<<<<<<< HEAD
+=======
+
+Change added in super_feature branch
+>>>>>>> a2a4f5026860da33af9285203912d2ca08cf7178
