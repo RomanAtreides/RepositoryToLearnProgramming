@@ -2,3 +2,4 @@ Git branching test
 
 Change added in super_feature branch
 Another changed line
+Line added by user1
