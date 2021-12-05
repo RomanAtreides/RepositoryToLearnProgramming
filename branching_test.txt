@@ -4,3 +4,4 @@ Change added in super_feature branch
 Another changed line
 Line 5 changed by user2
 Some code change
+Fourth try
